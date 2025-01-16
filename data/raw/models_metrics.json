@@ -1,0 +1,666 @@
+{
+    "models": {
+        "Pressure_1_Pressure_2": {
+            "coef": [
+                0.5672659596236652
+            ],
+            "intercept": 48.719357995755985
+        },
+        "Pressure_1_Pressure_3": {
+            "coef": [
+                0.2451073060003679
+            ],
+            "intercept": 89.5587680099668
+        },
+        "Pressure_1_Pressure_4": {
+            "coef": [
+                0.21051970030799688
+            ],
+            "intercept": 95.19318685338558
+        },
+        "Pressure_1_Pressure_5": {
+            "coef": [
+                0.2522926493671077
+            ],
+            "intercept": 87.99455342994594
+        },
+        "Pressure_1_Pressure_6": {
+            "coef": [
+                0.21566290229324553
+            ],
+            "intercept": 94.31117082395888
+        },
+        "Pressure_1_Pressure_7": {
+            "coef": [
+                0.20525122327787784
+            ],
+            "intercept": 97.6286401405444
+        },
+        "Pressure_1_Pressure_8": {
+            "coef": [
+                0.14539140588012134
+            ],
+            "intercept": 99.41206624997561
+        },
+        "Pressure_1_Pressure_9": {
+            "coef": [
+                0.10835839672351956
+            ],
+            "intercept": 99.0801126422305
+        },
+        "Pressure_1_Pressure_10": {
+            "coef": [
+                -0.0
+            ],
+            "intercept": 0.0
+        },
+        "Pressure_1_Pressure_11": {
+            "coef": [
+                0.24299241577665087
+            ],
+            "intercept": 24.827300078776005
+        },
+        "Pressure_2_Pressure_3": {
+            "coef": [
+                0.5606749869350895
+            ],
+            "intercept": 53.22740993117114
+        },
+        "Pressure_2_Pressure_4": {
+            "coef": [
+                0.4989511523257289
+            ],
+            "intercept": 61.921653910237815
+        },
+        "Pressure_2_Pressure_5": {
+            "coef": [
+                0.5419780246362605
+            ],
+            "intercept": 54.77305209628186
+        },
+        "Pressure_2_Pressure_6": {
+            "coef": [
+                0.4995107364488819
+            ],
+            "intercept": 61.60881976697508
+        },
+        "Pressure_2_Pressure_7": {
+            "coef": [
+                0.48406043937374593
+            ],
+            "intercept": 65.4754243868141
+        },
+        "Pressure_2_Pressure_8": {
+            "coef": [
+                0.37169457471782646
+            ],
+            "intercept": 73.21298169424122
+        },
+        "Pressure_2_Pressure_9": {
+            "coef": [
+                0.3166849800823532
+            ],
+            "intercept": 74.84075185309666
+        },
+        "Pressure_2_Pressure_10": {
+            "coef": [
+                -0.0
+            ],
+            "intercept": 0.0
+        },
+        "Pressure_2_Pressure_11": {
+            "coef": [
+                0.5582267581319842
+            ],
+            "intercept": -11.474523907868814
+        },
+        "Pressure_3_Pressure_4": {
+            "coef": [
+                0.9169433142099346
+            ],
+            "intercept": 11.31413005494396
+        },
+        "Pressure_3_Pressure_5": {
+            "coef": [
+                0.8695826230897814
+            ],
+            "intercept": 14.954775248304728
+        },
+        "Pressure_3_Pressure_6": {
+            "coef": [
+                0.8886439109498543
+            ],
+            "intercept": 14.459559837349516
+        },
+        "Pressure_3_Pressure_7": {
+            "coef": [
+                0.878382642266413
+            ],
+            "intercept": 17.720033715553214
+        },
+        "Pressure_3_Pressure_8": {
+            "coef": [
+                0.7091841907468789
+            ],
+            "intercept": 32.38398126421781
+        },
+        "Pressure_3_Pressure_9": {
+            "coef": [
+                0.6719924904814579
+            ],
+            "intercept": 31.93244196693037
+        },
+        "Pressure_3_Pressure_10": {
+            "coef": [
+                0.0
+            ],
+            "intercept": 0.0
+        },
+        "Pressure_3_Pressure_11": {
+            "coef": [
+                1.0009811913723472
+            ],
+            "intercept": -65.11045806013861
+        },
+        "Pressure_4_Pressure_5": {
+            "coef": [
+                0.952602078814714
+            ],
+            "intercept": 3.709546615554416
+        },
+        "Pressure_4_Pressure_6": {
+            "coef": [
+                0.9736699171655543
+            ],
+            "intercept": 2.945197604558359
+        },
+        "Pressure_4_Pressure_7": {
+            "coef": [
+                0.9645441501228853
+            ],
+            "intercept": 6.081985050218336
+        },
+        "Pressure_4_Pressure_8": {
+            "coef": [
+                0.8077598441658226
+            ],
+            "intercept": 19.47121445050425
+        },
+        "Pressure_4_Pressure_9": {
+            "coef": [
+                0.7753517860294553
+            ],
+            "intercept": 18.490401356122206
+        },
+        "Pressure_4_Pressure_10": {
+            "coef": [
+                0.0
+            ],
+            "intercept": 0.0
+        },
+        "Pressure_4_Pressure_11": {
+            "coef": [
+                1.077141455601602
+            ],
+            "intercept": -75.70290816042919
+        },
+        "Pressure_5_Pressure_6": {
+            "coef": [
+                0.9906248932730025
+            ],
+            "intercept": 2.906632532352617
+        },
+        "Pressure_5_Pressure_7": {
+            "coef": [
+                0.9778557373889276
+            ],
+            "intercept": 6.459050483761743
+        },
+        "Pressure_5_Pressure_8": {
+            "coef": [
+                0.8366422346551743
+            ],
+            "intercept": 17.673438718874806
+        },
+        "Pressure_5_Pressure_9": {
+            "coef": [
+                0.7920331653832838
+            ],
+            "intercept": 18.08073141164192
+        },
+        "Pressure_5_Pressure_10": {
+            "coef": [
+                0.0
+            ],
+            "intercept": 0.0
+        },
+        "Pressure_5_Pressure_11": {
+            "coef": [
+                1.074679124034564
+            ],
+            "intercept": -73.21674525770183
+        },
+        "Pressure_6_Pressure_7": {
+            "coef": [
+                0.9901526987929661
+            ],
+            "intercept": 3.2218206565406007
+        },
+        "Pressure_6_Pressure_8": {
+            "coef": [
+                0.8410596430382642
+            ],
+            "intercept": 15.642046891884306
+        },
+        "Pressure_6_Pressure_9": {
+            "coef": [
+                0.8067234329712648
+            ],
+            "intercept": 14.886491639841068
+        },
+        "Pressure_6_Pressure_10": {
+            "coef": [
+                0.0
+            ],
+            "intercept": 0.0
+        },
+        "Pressure_6_Pressure_11": {
+            "coef": [
+                1.094965617858446
+            ],
+            "intercept": -77.59368800294035
+        },
+        "Pressure_7_Pressure_8": {
+            "coef": [
+                0.8534766849354279
+            ],
+            "intercept": 12.406909172087296
+        },
+        "Pressure_7_Pressure_9": {
+            "coef": [
+                0.8216332686544411
+            ],
+            "intercept": 11.414472365871134
+        },
+        "Pressure_7_Pressure_10": {
+            "coef": [
+                0.0
+            ],
+            "intercept": 0.0
+        },
+        "Pressure_7_Pressure_11": {
+            "coef": [
+                1.1032845220027012
+            ],
+            "intercept": -80.8403569645665
+        },
+        "Pressure_8_Pressure_9": {
+            "coef": [
+                0.9860442019918223
+            ],
+            "intercept": -3.2709185964857426
+        },
+        "Pressure_8_Pressure_10": {
+            "coef": [
+                0.0
+            ],
+            "intercept": 0.0
+        },
+        "Pressure_8_Pressure_11": {
+            "coef": [
+                1.118741773861637
+            ],
+            "intercept": -76.45982354539024
+        },
+        "Pressure_9_Pressure_10": {
+            "coef": [
+                0.0
+            ],
+            "intercept": 0.0
+        },
+        "Pressure_9_Pressure_11": {
+            "coef": [
+                1.0752392836299816
+            ],
+            "intercept": -66.07499093622035
+        },
+        "Pressure_10_Pressure_11": {
+            "coef": [
+                0.0
+            ],
+            "intercept": 54.86012649536133
+        }
+    },
+    "metrics": [
+        {
+            "Sensor_X": "Pressure_1",
+            "Sensor_Y": "Pressure_2",
+            "R2": 0.9128303098728344,
+            "MSE": 2.1425823620221656
+        },
+        {
+            "Sensor_X": "Pressure_1",
+            "Sensor_Y": "Pressure_3",
+            "R2": 0.34546785031599725,
+            "MSE": 7.936417165353615
+        },
+        {
+            "Sensor_X": "Pressure_1",
+            "Sensor_Y": "Pressure_4",
+            "R2": 0.2990485216814649,
+            "MSE": 7.24303211979229
+        },
+        {
+            "Sensor_X": "Pressure_1",
+            "Sensor_Y": "Pressure_5",
+            "R2": 0.4525332923474874,
+            "MSE": 5.3691433890543285
+        },
+        {
+            "Sensor_X": "Pressure_1",
+            "Sensor_Y": "Pressure_6",
+            "R2": 0.3293247934403135,
+            "MSE": 6.604308370347719
+        },
+        {
+            "Sensor_X": "Pressure_1",
+            "Sensor_Y": "Pressure_7",
+            "R2": 0.3040209771316057,
+            "MSE": 6.724387567696645
+        },
+        {
+            "Sensor_X": "Pressure_1",
+            "Sensor_Y": "Pressure_8",
+            "R2": 0.19160032499523194,
+            "MSE": 6.218648214258332
+        },
+        {
+            "Sensor_X": "Pressure_1",
+            "Sensor_Y": "Pressure_9",
+            "R2": 0.10786660388228508,
+            "MSE": 6.771058430286708
+        },
+        {
+            "Sensor_X": "Pressure_1",
+            "Sensor_Y": "Pressure_10",
+            "R2": 1.0,
+            "MSE": 0.0
+        },
+        {
+            "Sensor_X": "Pressure_1",
+            "Sensor_Y": "Pressure_11",
+            "R2": 0.3388478016173042,
+            "MSE": 8.032871878514776
+        },
+        {
+            "Sensor_X": "Pressure_2",
+            "Sensor_Y": "Pressure_3",
+            "R2": 0.6372368498902286,
+            "MSE": 4.398622272227411
+        },
+        {
+            "Sensor_X": "Pressure_2",
+            "Sensor_Y": "Pressure_4",
+            "R2": 0.5921825804578771,
+            "MSE": 4.214035864280018
+        },
+        {
+            "Sensor_X": "Pressure_2",
+            "Sensor_Y": "Pressure_5",
+            "R2": 0.7361869089627409,
+            "MSE": 2.5872811878594364
+        },
+        {
+            "Sensor_X": "Pressure_2",
+            "Sensor_Y": "Pressure_6",
+            "R2": 0.6227971068394744,
+            "MSE": 3.7144122822106067
+        },
+        {
+            "Sensor_X": "Pressure_2",
+            "Sensor_Y": "Pressure_7",
+            "R2": 0.5960938182697676,
+            "MSE": 3.902447656753846
+        },
+        {
+            "Sensor_X": "Pressure_2",
+            "Sensor_Y": "Pressure_8",
+            "R2": 0.4414429731307816,
+            "MSE": 4.296723223795483
+        },
+        {
+            "Sensor_X": "Pressure_2",
+            "Sensor_Y": "Pressure_9",
+            "R2": 0.3247881613002356,
+            "MSE": 5.12468071765153
+        },
+        {
+            "Sensor_X": "Pressure_2",
+            "Sensor_Y": "Pressure_10",
+            "R2": 1.0,
+            "MSE": 0.0
+        },
+        {
+            "Sensor_X": "Pressure_2",
+            "Sensor_Y": "Pressure_11",
+            "R2": 0.6304112138307354,
+            "MSE": 4.490432572554234
+        },
+        {
+            "Sensor_X": "Pressure_3",
+            "Sensor_Y": "Pressure_4",
+            "R2": 0.9866111649068501,
+            "MSE": 0.13834875255405088
+        },
+        {
+            "Sensor_X": "Pressure_3",
+            "Sensor_Y": "Pressure_5",
+            "R2": 0.9349059449399028,
+            "MSE": 0.638393733367424
+        },
+        {
+            "Sensor_X": "Pressure_3",
+            "Sensor_Y": "Pressure_6",
+            "R2": 0.97237537430982,
+            "MSE": 0.27202667533996816
+        },
+        {
+            "Sensor_X": "Pressure_3",
+            "Sensor_Y": "Pressure_7",
+            "R2": 0.9682876841972479,
+            "MSE": 0.3063970250827801
+        },
+        {
+            "Sensor_X": "Pressure_3",
+            "Sensor_Y": "Pressure_8",
+            "R2": 0.7927600133716954,
+            "MSE": 1.5942022400756477
+        },
+        {
+            "Sensor_X": "Pressure_3",
+            "Sensor_Y": "Pressure_9",
+            "R2": 0.7214322949462282,
+            "MSE": 2.1142558006662533
+        },
+        {
+            "Sensor_X": "Pressure_3",
+            "Sensor_Y": "Pressure_10",
+            "R2": 1.0,
+            "MSE": 0.0
+        },
+        {
+            "Sensor_X": "Pressure_3",
+            "Sensor_Y": "Pressure_11",
+            "R2": 0.9999446122600996,
+            "MSE": 0.000672950372621236
+        },
+        {
+            "Sensor_X": "Pressure_4",
+            "Sensor_Y": "Pressure_5",
+            "R2": 0.9561107840097542,
+            "MSE": 0.43043255524201757
+        },
+        {
+            "Sensor_X": "Pressure_4",
+            "Sensor_Y": "Pressure_6",
+            "R2": 0.9948116618762837,
+            "MSE": 0.05109087761633921
+        },
+        {
+            "Sensor_X": "Pressure_4",
+            "Sensor_Y": "Pressure_7",
+            "R2": 0.9949931511267761,
+            "MSE": 0.04837501018016863
+        },
+        {
+            "Sensor_X": "Pressure_4",
+            "Sensor_Y": "Pressure_8",
+            "R2": 0.8764499378933237,
+            "MSE": 0.9504140054072348
+        },
+        {
+            "Sensor_X": "Pressure_4",
+            "Sensor_Y": "Pressure_9",
+            "R2": 0.8184709580687328,
+            "MSE": 1.3777578051213237
+        },
+        {
+            "Sensor_X": "Pressure_4",
+            "Sensor_Y": "Pressure_10",
+            "R2": 1.0,
+            "MSE": 0.0
+        },
+        {
+            "Sensor_X": "Pressure_4",
+            "Sensor_Y": "Pressure_11",
+            "R2": 0.9867531984756205,
+            "MSE": 0.16094608730902393
+        },
+        {
+            "Sensor_X": "Pressure_5",
+            "Sensor_Y": "Pressure_6",
+            "R2": 0.9773512458930493,
+            "MSE": 0.2230280094798311
+        },
+        {
+            "Sensor_X": "Pressure_5",
+            "Sensor_Y": "Pressure_7",
+            "R2": 0.9705999803960965,
+            "MSE": 0.28405615660618844
+        },
+        {
+            "Sensor_X": "Pressure_5",
+            "Sensor_Y": "Pressure_8",
+            "R2": 0.8923947318285069,
+            "MSE": 0.8277580130836857
+        },
+        {
+            "Sensor_X": "Pressure_5",
+            "Sensor_Y": "Pressure_9",
+            "R2": 0.8106012307783319,
+            "MSE": 1.437486970676175
+        },
+        {
+            "Sensor_X": "Pressure_5",
+            "Sensor_Y": "Pressure_10",
+            "R2": 1.0,
+            "MSE": 0.0
+        },
+        {
+            "Sensor_X": "Pressure_5",
+            "Sensor_Y": "Pressure_11",
+            "R2": 0.9322567139704846,
+            "MSE": 0.823067878524534
+        },
+        {
+            "Sensor_X": "Pressure_6",
+            "Sensor_Y": "Pressure_7",
+            "R2": 0.9992239986815051,
+            "MSE": 0.007497544390198817
+        },
+        {
+            "Sensor_X": "Pressure_6",
+            "Sensor_Y": "Pressure_8",
+            "R2": 0.905521614362425,
+            "MSE": 0.7267789217352804
+        },
+        {
+            "Sensor_X": "Pressure_6",
+            "Sensor_Y": "Pressure_9",
+            "R2": 0.8443794814627307,
+            "MSE": 1.1811189095182477
+        },
+        {
+            "Sensor_X": "Pressure_6",
+            "Sensor_Y": "Pressure_10",
+            "R2": 1.0,
+            "MSE": 0.0
+        },
+        {
+            "Sensor_X": "Pressure_6",
+            "Sensor_Y": "Pressure_11",
+            "R2": 0.9717323534948531,
+            "MSE": 0.3434464609487024
+        },
+        {
+            "Sensor_X": "Pressure_7",
+            "Sensor_Y": "Pressure_8",
+            "R2": 0.9148924643040454,
+            "MSE": 0.65469326774835
+        },
+        {
+            "Sensor_X": "Pressure_7",
+            "Sensor_Y": "Pressure_9",
+            "R2": 0.8593812102680047,
+            "MSE": 1.0672597235065369
+        },
+        {
+            "Sensor_X": "Pressure_7",
+            "Sensor_Y": "Pressure_10",
+            "R2": 1.0,
+            "MSE": 0.0
+        },
+        {
+            "Sensor_X": "Pressure_7",
+            "Sensor_Y": "Pressure_11",
+            "R2": 0.9679707715556142,
+            "MSE": 0.38914895706435665
+        },
+        {
+            "Sensor_X": "Pressure_8",
+            "Sensor_Y": "Pressure_9",
+            "R2": 0.9854528786748961,
+            "MSE": 0.11040883450096951
+        },
+        {
+            "Sensor_X": "Pressure_8",
+            "Sensor_Y": "Pressure_10",
+            "R2": 1.0,
+            "MSE": 0.0
+        },
+        {
+            "Sensor_X": "Pressure_8",
+            "Sensor_Y": "Pressure_11",
+            "R2": 0.792428662035248,
+            "MSE": 2.521951779940392
+        },
+        {
+            "Sensor_X": "Pressure_9",
+            "Sensor_Y": "Pressure_10",
+            "R2": 1.0,
+            "MSE": 0.0
+        },
+        {
+            "Sensor_X": "Pressure_9",
+            "Sensor_Y": "Pressure_11",
+            "R2": 0.7222168493853,
+            "MSE": 3.37501178148765
+        },
+        {
+            "Sensor_X": "Pressure_10",
+            "Sensor_Y": "Pressure_11",
+            "R2": 0.0,
+            "MSE": 12.149807409193693
+        }
+    ]
+}
